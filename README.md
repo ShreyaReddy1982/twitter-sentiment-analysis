@@ -78,10 +78,6 @@ To analyze Twitter data and automatically determine customer sentiment, helping 
 predict_sentiment("I love this airline")
 ('Positive 😊', 91.23)
 
-Developed an end-to-end sentiment analysis system to classify tweets into positive, negative, and neutral categories using NLP techniques
-Implemented TF-IDF vectorization with n-grams and trained multiple models including Logistic Regression, Naive Bayes, and SVM
-Performed model evaluation using accuracy, confusion matrix, ROC curve, and classification report to compare performance
-Built a real-time prediction system with confidence scoring and conducted error analysis to improve model understanding
 
 
 Author
