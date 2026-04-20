@@ -74,10 +74,13 @@ To analyze Twitter data and automatically determine customer sentiment, helping 
 2. Run the notebook step-by-step  
 3. Use the prediction function:
 ```python
-Author
 
-Shreya K Reddy
 Developed an end-to-end sentiment analysis system to classify tweets into positive, negative, and neutral categories using NLP techniques
 Implemented TF-IDF vectorization with n-grams and trained multiple models including Logistic Regression, Naive Bayes, and SVM
 Performed model evaluation using accuracy, confusion matrix, ROC curve, and classification report to compare performance
 Built a real-time prediction system with confidence scoring and conducted error analysis to improve model understanding
+
+
+Author
+
+Shreya K Reddy
