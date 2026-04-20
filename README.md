@@ -72,6 +72,9 @@ To analyze Twitter data and automatically determine customer sentiment, helping 
 ### Sentiment Distribution
 ![Pie Chart](images/pie_chart.png)
 
+### ROC Curve
+![ROC_Curve](images/ROC_Curve.png)
+
 ## 🔍 Insights
 - Negative sentiment is mostly related to delays and service issues  
 - Positive sentiment reflects customer satisfaction and appreciation  
