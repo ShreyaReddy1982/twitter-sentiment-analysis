@@ -61,6 +61,16 @@ To analyze Twitter data and automatically determine customer sentiment, helping 
 - Model successfully identifies key words influencing sentiment  
 
 ---
+## 📸 Sample Outputs
+
+### Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
+
+### WordCloud
+![WordCloud](images/wordcloud.png)
+
+### Sentiment Distribution
+![Pie Chart](images/pie_chart.png)
 
 ## 🔍 Insights
 - Negative sentiment is mostly related to delays and service issues  
