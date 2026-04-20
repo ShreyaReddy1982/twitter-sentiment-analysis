@@ -87,11 +87,9 @@ To analyze Twitter data and automatically determine customer sentiment, helping 
 3. Use the prediction function:
 
 ```python
-predict_sentiment("I love this airline")
-('Positive 😊', 91.23)
 
 
 
-Author
+## 👨‍💻 Author  
 
-Shreya K Reddy
+[Shreya K Reddy](https://github.com/YOUR-USERNAME)
