@@ -73,7 +73,10 @@ To analyze Twitter data and automatically determine customer sentiment, helping 
 1. Upload the dataset (Tweets.csv)  
 2. Run the notebook step-by-step  
 3. Use the prediction function:
+
 ```python
+predict_sentiment("I love this airline")
+('Positive 😊', 91.23)
 
 Developed an end-to-end sentiment analysis system to classify tweets into positive, negative, and neutral categories using NLP techniques
 Implemented TF-IDF vectorization with n-grams and trained multiple models including Logistic Regression, Naive Bayes, and SVM
