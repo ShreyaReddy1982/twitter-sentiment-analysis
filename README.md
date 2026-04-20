@@ -67,7 +67,7 @@ It demonstrates:
 - Insightful analysis of results  
 - Practical deployment readiness  
 
----
+
 
 ## ⚠️ Design Approach
 
@@ -78,7 +78,7 @@ The project focuses on clarity and effectiveness rather than unnecessary complex
 - Avoidance of over-engineering  
 - Emphasis on interpretability and insights  
 
----
+
 
 ## 🏆 Project Outcome
 
@@ -90,7 +90,7 @@ It reflects:
 - Ability to analyze and interpret results  
 - Readiness for real-world applications  
 
----
+
 
 ## 🚀 Next Steps
 
@@ -99,7 +99,7 @@ This project can be further enhanced by:
 - Integrating real-time Twitter data  
 - Using deep learning models like LSTM or BERT  
 
----
+
 
 ## 👨‍💻 Author  
 Shreya K Reddy
