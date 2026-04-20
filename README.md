@@ -86,10 +86,12 @@ To analyze Twitter data and automatically determine customer sentiment, helping 
 2. Run the notebook step-by-step  
 3. Use the prediction function:
 
-```python
+
 
 
 
 ## 👨‍💻 Author  
 
-[Shreya K Reddy](https://github.com/YOUR-USERNAME)
+SHREYA K REDDY
+
+```python
